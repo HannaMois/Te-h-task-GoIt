@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Te-h-task-GoIt/static/css/main.7acaea2f.css",
+    "main.js": "/Te-h-task-GoIt/static/js/main.07d3183d.js",
+    "index.html": "/Te-h-task-GoIt/index.html",
+    "main.7acaea2f.css.map": "/Te-h-task-GoIt/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Te-h-task-GoIt/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
