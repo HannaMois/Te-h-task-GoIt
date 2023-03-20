@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fcdn3d.iconscout.com%2F3d%2Fpremium%2Fthumb%2Fbusinessman-avatar-5966937-4936167.png"
+  },
+
+  {
+    "id": 2,
+    "tweets": 555,
+    "followers": 15500,
+    "avatar": "https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fcdn3d.iconscout.com%2F3d%2Fpremium%2Fthumb%2Fperson-6850819-5618504.png"
+  },
+  {
+    "id": 3,
+    "tweets": 333,
+    "followers": 13230,
+    "avatar": "https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fcdn3d.iconscout.com%2F3d%2Fpremium%2Fthumb%2Fwoman-avatar-6299541-5187873.png"
+  },
+  {
+    "id": 4,
+    "tweets": 444,
+    "followers": 14430,
+    "avatar": "https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fcdn3d.iconscout.com%2F3d%2Fpremium%2Fthumb%2Fboy-avatar-6299533-5187865.png"
+  }
+]
